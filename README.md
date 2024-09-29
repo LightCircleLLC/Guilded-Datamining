@@ -1,5 +1,5 @@
 # Guilded-Datamining
-Datamining Guilded changes from the JS files
+Datamining Guilded changes from the JS files.
 
 ## Guilded Server
-[guilded.gg/datamining](https://www.guilded.gg/datamining)
+[guilded.gg/LightCircle](https://www.guilded.gg/LightCircle)
